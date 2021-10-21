@@ -12,11 +12,12 @@
 - now working as a data analyst at a labor union.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-- Spatial Analysis: Arc, Q, GeoPandas, PostGIS, Leaflet
-- Database: PostGre, MS SQL Server, Access
-- Spreadsheets: Excel, Google, VBA
-- Web Development: JavaScript, CSS, HTML
-- Team Playing: 4+ years of military experience at the officer level
+
+- Spatial Analysis: Arc, Q, GeoPandas, PostGIS, Leaflet.
+- Database: PostGre, MS SQL Server, Access.
+- Spreadsheets: Excel, Google, VBA.
+- Web Development: JavaScript, CSS, HTML.
+- Team Playing: 4+ years of military experience at the officer level.
 
 
 <br/>
