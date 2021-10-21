@@ -24,9 +24,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dongsoomikeseo/">Linkedin</a>
-<a href="https://www.instagram.com/noloiteringhere/">Do you dare to add me on IG?</a>
-<a href="mailto:fdoseo@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/dongsoomikeseo/">Linkedin |</a>
+<a href="https://www.instagram.com/noloiteringhere/"> Do you dare to add me on IG? |</a>
+<a href="mailto:fdoseo@gmail.com"> Email</a>
 </p>
 
 
