@@ -20,8 +20,6 @@
 - Team Playing: 4+ years of military experience at the officer level.
 
 
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
