@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 &nbsp; About Me </h3>
 
 - love Ethiopian and Korean food. cannot process caffeine though. 
-- love doing/watching comedies, specially IMPROV! 
+- love doing/watching comedies, especially IMPROV! 
 - love making maps.
 - studied Jounalism, English Liguistics, GIS and Urban Planning.
 - used to be an artillery fire direction officer, a news reporter, and a financial analyst.
