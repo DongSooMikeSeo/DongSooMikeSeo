@@ -17,6 +17,7 @@
 - Database: PostGre, MS SQL Server, Access.
 - Spreadsheets: Excel, Google, VBA.
 - Web Development: JavaScript, CSS, HTML.
+- Statistics & Machine Learning
 - Team Playing: 4+ years of military experience at the officer level.
 
 
