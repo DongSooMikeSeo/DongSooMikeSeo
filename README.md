@@ -7,7 +7,7 @@
 - love Ethiopian and Korean food. cannot process caffeine though. 
 - love doing/watching comedies, especially IMPROV! Not to mention, Karaoke too. 
 - love making maps.
-- studied Jounalism, English Liguistics, GIS and Urban Planning.
+- studied Journalism, English Linguistics, GIS and Urban Planning.
 - born in Chicago, grew up in Seoul, spent chunk of my 20-30s in NY, now in Seattle.
 - used to be an artillery fire direction officer, a news reporter, and a financial analyst.
 - now working as a data analyst at a labor union.
