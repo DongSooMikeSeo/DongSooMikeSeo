@@ -9,10 +9,11 @@
 - love making maps.
 - studied Journalism, English Linguistics, GIS and Urban Planning.
 - born in IL, grew up in Seoul, spent chunk of my 20-30s in NY, now in Seattle.
-- used to be 1. an artillery fire direction officer, 
-  2.news reporter,
-  3.financial analyst at an impact investing company,
-  4.data analyst at a labor union.
+- used to be 
+  - an artillery fire direction officer, 
+  - news reporter,
+  - financial analyst at an impact investing company,
+  - data analyst at a labor union.
 - now working as a portfolio analyst at an impact investing fund specialized in Cooperatives.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
