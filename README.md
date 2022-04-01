@@ -13,7 +13,7 @@
   - an artillery fire direction officer, 
   - news reporter,
   - financial analyst at an impact investing company,
-  - data analyst at a labor union.
+  - and a data analyst at a labor union.
 - now working as a portfolio analyst at an impact investing fund specialized in Cooperatives.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
